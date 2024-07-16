@@ -1,0 +1,187 @@
+@media screen and (max-width: 1236px){
+
+    .gobal-btn a{
+        padding: 13px 20px;
+    }
+}
+@media screen and (max-width: 1100px){
+
+    .width-90 {
+        width: 95%;
+        margin-left: auto;
+    }
+    .width-left-50 {
+        width: 58%;
+        padding: 50px;
+    }
+    .testmonail-container {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .booking-container {
+        width: 66%;
+        padding: 50px;
+    }
+    section.testmonail-container.booking-cta {
+        margin-top: 300px;
+    }
+    .service-each-iteam{
+        flex-direction: column;
+    }
+    .service-left{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .service-right{
+        width: 100%;
+    }
+    .service-container{
+       width: 100%;
+    }
+}
+@media screen and (max-width: 984px){
+
+    .slider-bg{
+        height: 100vh;
+    }
+    .service-bg {
+        height: auto;
+        padding: 350px 35px 0;
+        margin-bottom: 40px;
+    }
+    .about-us{
+        flex-direction: column;
+    }
+    .about-content{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .about-img{
+        width: 100%;
+    }
+    .gobal-btn a {
+        padding: 13px 30px;
+    }
+    .gallery-slider {
+        width: 100%;
+    }
+    .booking-cta-container {
+        width: 92%;
+    }
+    footer form {
+        display: flex;
+        flex-direction: column;
+    }
+    footer input[type="submit"] {
+        color: #fff;
+        margin-left:0;
+        width: 55%;
+        margin-top: 10px;
+    }
+    .nav-item{
+        padding-left: 0;
+        margin-top: 20px;
+    }
+    .nav-bton{
+        margin-left: 0;
+    }
+    .service-container{
+        padding: 100px 40px;
+    }
+}
+@media screen and (max-width: 720px){
+
+
+    .for-desktop{
+        display: none;
+    }
+    .for-mobile{
+        display: block;
+    }
+    .geeks img{
+        width: 70%;
+    }
+
+    .slider-text h1 {
+        font-size: 30px;
+    }
+    .slider-text{
+        width: 100%;
+    }
+    .slider-text h4{
+        font-size: 20px;
+    }
+    .section-padding{
+        padding: 50px 0;
+    }
+    h2{
+        font-size: 30px!important;
+    }
+    h4{
+        font-size: 20px!important;
+    }
+    .about-img img{width: 100%;}
+    .width-90 {
+        width: 100%;
+        padding:0 15px;
+    }
+    .width-left-50 {
+        width: 100%;
+        padding: 30px;
+    }
+    .section-title {
+        width: 80%;
+       
+    }
+    .service-bg{
+        padding: 250px 20px 0;
+    }
+    .item {
+        padding: 0;
+        margin: 10px;
+        border-radius: 3px;
+       border: none;
+    }
+    .cta{
+        padding-top:0;
+    }
+    .width-left-50{
+        padding: 100px 20px;
+    }
+    .Services {
+        padding: 50px 0 0;
+    }
+    .booking-container {
+        width: 100%;
+        padding: 50px 35px;
+    }
+    .booking-cta-container {
+        width: 100%;
+        flex-direction: column;
+        margin-top: 0;
+    }
+    .booking-left{
+        width: 100%;
+    }
+    .booking-right{
+        width: 100%;
+    }
+    section.testmonail-container.booking-cta {
+        margin-top: 0px;
+        background: transparent;
+    }
+    .service-container{
+        padding: 100px 20px;
+    }
+    .service-right{
+        flex-direction: column;
+    }
+    .service-price {
+        width: 100%;
+    }
+    .contact-booking{
+        padding: 50px 0;
+    }
+
+}
+
